@@ -13,7 +13,7 @@
         "n": "7ioFrpN4BSn7SYpNbR3VQjen2l6wE1M4vDDx2sgghKqL0CpTdJlzNtULdvm8tF-mShjIbOIESP0UU08B4uegnQK6-H3NA5K5evCPI_XpsyDU9XLp5cpX5iBe9rEAPrL-ZYTDRt4bdlI9POAUGVO1uVi2OWzIK0FiPXrdAtCgdDJX5ur6tDLQDwyA3ngh4ELJz7yFheGsM7LYNGPSUQ6oLHuxo9YR1L9L-ZzjD6GSeQf_HhHx1wCBmSddm6qzPAMN7BQResuGL7_Pz-FVWkg10zC7PbncLnU7O_KaTuHdZLLdUp4eaOq8EZVVA7zDsMy6RyLojXCmynf8P_Fyr1CfQQ",
         "e": "AQAB",
         "alg": "RS256",
-        "x5u": "https://raw.githubusercontent.com/AlvaroSM/Did-Gaia-X/main/public_key.pem"
+        "x5u": "https://raw.githubusercontent.com/AlvaroSM/Did-Gaia-X/main/certificate.pem"
       }
     }
   ],
